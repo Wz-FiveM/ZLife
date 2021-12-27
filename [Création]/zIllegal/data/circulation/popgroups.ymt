@@ -1,0 +1,7583 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--World Of Variety. Do not copy or redistribute without the authors permission. Cass-->
+<CPopGroupList>
+	<pedGroups>
+		<Item>
+			<Name>Richman_Glen_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Marlowe_Drive_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Baytree_Canyon_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_GenHot_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Galileo_Park_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_GenHot_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Galileo_Park_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Galileo_Park_Tourists</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_GenHot_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Ocean_General</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Sunbathe_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Pacific_Bluffs_Beach</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BEACH_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_ACCS</Component>
+								<DrawableIndex value="1" />
+								<Restriction>MustUse</Restriction>
+							</Item>
+						</CompRestrictions>
+						<PropRestrictions />
+					</Variations>
+					<Probability />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Pacific_Bluffs_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Del_Perro_Beach</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Beach_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_ACCS</Component>
+								<DrawableIndex value="1" />
+								<Restriction>MustUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_F_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SunBathe_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Surfer_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Del_Perro_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_M_Malibu_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>U_M_Y_Party_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Bevhills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Del_Perro_Bums</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_TrampBeac_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_TrampBeac_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Vespucci_Pier_Beach</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_stwhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_gay_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Beach_01</Name>
+					<Variations />
+					<CompRestrictions>
+						<Item>
+							<Component>PV_COMP_ACCS</Component>
+							<DrawableIndex value="1" />
+							<Restriction>MustUse</Restriction>
+						</Item>
+					</CompRestrictions>
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_stwhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_stwhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hippie_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SunBathe_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Vespucci_Beach</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_gay_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Breakdance_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Beach_01</Name>
+					<Variations />
+					<CompRestrictions>
+						<Item>
+							<Component>PV_COMP_ACCS</Component>
+							<DrawableIndex value="1" />
+							<Restriction>MustUse</Restriction>
+						</Item>
+					</CompRestrictions>
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hippie_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SunBathe_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Surfer_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Vespucci_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Vespucci_Bums</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_TrampBeac_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_TrampBeac_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Vespucci_Canals_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Vespucci_Canals_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Puerto_Business</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BusiCas_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Puerto_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Puerto_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Puerto_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>LSA_Airport</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_Pilot_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Airworker</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_Y_Airhostess_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_DWService_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>LSA_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Exmil_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_KTOWN_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Elysian_Island_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Dockwork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Dockwork_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Elysian_Island_GenPed</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_HillBilly_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Terminal_Construction</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Terminal_SpecificJob</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_DockWork_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>BeachParty</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_EastSA_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Banning_Construction</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Banning_SpecificJob</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_DockWork_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Banning_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Banning_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>El_Burro_General</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Gaffer_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Cypress_General</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Gaffer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_M_Sweatshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_M_Sweatshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexLabor_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Gardener_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Cypress_Garage</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_AutoShop_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Cypress_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>La_Mesa_General</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_indian_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_indian_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_O_Genstreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_M_Sweatshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_Y_Sweatshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexLabor_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_DockWork_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>La_Mesa_Garage</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_AutoShop_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>La_Mesa_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_MethHead_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_RurMeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Murrieta_General</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Gardener_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Gaffer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexLabor_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Murrieta_Garage</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_AutoShop_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Murrieta_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Murrieta_Gang</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_SalvaGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_SalvaGoon_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_SalvaGoon_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_SalvaBoss_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG</flags>
+		</Item>
+		<Item>
+			<Name>Hippy</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Hippie_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hippy_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Cult</Name>
+			<models>
+				<Item>
+					<Name>A_M_O_ACult_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_ACult_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_ACult_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_ACult_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_ACult_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatCult_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Racecourse_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Racecourse_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_indian_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>East_Vinewood_Local</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_EastSA_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_EastSA_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_EastSA_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_EastSA_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_EastSA_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_EastSA_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_EastSA_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_EastSA_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_EastSA_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>East_Vinewood_Hipster</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>East_Vinewood_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>S_M_Y_Strvend_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Paleto_Bay_General</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexCntry_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexLabor_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Mirror_Park_Business</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Mirror_Park_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Lifeinvad_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Mirror_Park_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>West_Vinewood_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>West_Vinewood_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_indian_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_indian_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_O_Genstreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>S_M_Y_Strvend_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>West_Vinewood_Vinewood</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_VinDouche_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Eclipse_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Eclipse_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>U_M_Y_Party_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Lifeinvad_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Eclipse_Vinewood</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_VinDouche_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Eclipse_Sexuals</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_TranVest_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_TranVest_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Club_Nighttime</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Latino_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_KTown_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_KTown_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_EastSA_03</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_GenHot_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_03</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_EastSA_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_M_GenFat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_EastSA_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_03</Name>
+					<Variations type="NULL" />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Downtown_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Downtown_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Downtown_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Downtown_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Malibu_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>S_M_Y_Strvend_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Downtown_Vinewood</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_VinDouche_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Exmil_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Fish_</Name>
+			<models>
+				<Item>
+					<Name>A_C_FISH</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_AQUATIC</flags>
+		</Item>
+		<Item>
+			<Name>Birds_City</Name>
+			<models>
+				<Item>
+					<Name>A_C_PIGEON</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_AERIAL</flags>
+		</Item>
+		<Item>
+			<Name>Birds_Ground_City</Name>
+			<models>
+				<Item>
+					<Name>A_C_PIGEON</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_WILDLIFE</flags>
+		</Item>
+		<Item>
+			<Name>Birds_Countryside</Name>
+			<models>
+				<Item>
+					<Name>A_C_CORMORANT</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_C_CHICKENHAWK</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_C_CROW</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_AERIAL</flags>
+		</Item>
+		<Item>
+			<Name>Birds_Ocean</Name>
+			<models>
+				<Item>
+					<Name>A_C_SEAGULL</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_AERIAL</flags>
+		</Item>
+		<Item>
+			<Name>Birds_Ground_Ocean</Name>
+			<models>
+				<Item>
+					<Name>A_C_SEAGULL</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_WILDLIFE</flags>
+		</Item>
+		<Item>
+			<Name>Burton_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Burton_Business</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Burton_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Burton_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Burton_Vinewood</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_VinDouche_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Burton_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Malibu_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>S_M_M_Lifeinvad_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tranvest_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Hawick_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Hawick_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>U_M_Y_Party_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Hawick_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>S_M_M_Lifeinvad_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_HasJew_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_HasJew_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tranvest_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Hawick_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Hawick_Vinewood</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_VinDouche_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Alta_Business</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BusiCas_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Folk</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_Cntrybar_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Pologoon_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<!--<Item>
+			<Name>Juggalos</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_juggalo_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_juggalo_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Los_Puerta_Armenian</Name>
+			<models>
+				<Item>
+					<Name>G_M_M_ArmBoss_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_ArmGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_ArmGoon_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_ArmLieut_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>-->
+		<Item>
+			<Name>Metro</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_Lsmetro_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Alta_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Alta_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Alta_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>U_M_Y_Party_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Rockford_Shop_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Suit_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Rockford_Shop_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Rockford_Residential_BlueCollar</Name>
+			<models>
+				<Item>
+					<Name>S_F_Y_Migrant_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Migrant_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexLabor_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_LatHandy_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Rockford_Residential_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Rockford_Hills_Day</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Fitness_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Fitness_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Genhot_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Runner_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Runner_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Rockford_Hills_Night</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Genhot_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Gay_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Gay_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_VinDouche_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Richman_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Malibu_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_Y_Movprem_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Movprem_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Richman_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Morningwood_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Morningwood_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Malibu_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Vinewood_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_Y_Movprem_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Movprem_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Morningwood_Hipsters</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Morningwood_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Backlot_Film</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_Gaffer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Grip_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Backlot_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>CHUMASH</Name>
+			<models>
+				<Item>
+					<Name>a_f_m_bevhills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>a_f_m_bevhills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>a_f_y_genhot_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>a_m_y_vindouche_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>a_m_m_malibu_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>a_m_y_bevhills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Little_Seoul_Koreatown</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_KTown_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_KTown_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_KTown_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_KTown_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Little_Seoul_Gang</Name>
+			<models>
+				<Item>
+					<Name>G_M_M_ChiBoss_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_ChiGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_ChiGoon_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_KorBoss_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_KorLieut_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Korean_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Korean_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Little_Seoul_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_M_Bevhills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Pillbox_Business</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BusiCas_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Pillbox_BevHills</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Pillbox_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_MethHead_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Textile_BlueCollar</Name>
+			<models>
+				<Item>
+					<Name>S_F_M_Sweatshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_F_Y_Sweatshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Lsmetro_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Textile_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Textile_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_HasJew_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_HasJew_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Mission_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_MethHead_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Mission_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations type="NULL" />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Strawberry_SC</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_StrPunk_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Strpunk_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SCDRESSY_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SoucentMC_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Soucent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_OG_Boss_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Robber_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Strawberry_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_O_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Strawberry_Gang</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_FAMDNF_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_FAMFOR_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>MP_M_FAMDD_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_FamCA_01</Name>
+					<Variations />
+					<Probability />
+				</Item>
+				<Item>
+					<Name>G_F_Y_FAMILIES_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Chamberlain_SC</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Robber_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_StrPunk_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Strpunk_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SouCent_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_OG_Boss_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SCDRESSY_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SoucentMC_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Soucent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Chamberlain_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Chamberlain_Gang</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_FAMDNF_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_FAMFOR_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_FamCA_01</Name>
+					<Variations />
+					<Probability />
+				</Item>
+				<Item>
+					<Name>G_F_Y_FAMILIES_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Davis_Hookers</Name>
+			<models>
+				<Item>
+					<Name>S_F_Y_Hooker_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Davis_SC</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Robber_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SouCent_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SCDRESSY_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SoucentMC_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Soucent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Soucent_04</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Davis_Gang</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_BallaOrig_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_BallaEast_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_BallaSout_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_F_Y_Ballas_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Davis_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>Rancho_SC</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Robber_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SoCenLat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_StLat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexLabor_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Rancho_Gang</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_MexGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>CSB_ORTEGA</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_MexBoss_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_MexBoss_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_MexThug_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>MP_M_G_Vagfun_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Rancho_Tramps</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_MethHead_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>InCar_General</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions />
+						<PropRestrictions>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<PropSlot>ANCHOR_HEAD</PropSlot>
+								<PropIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</PropRestrictions>
+					</Variations>
+				</Item>
+			</models>
+			<flags>POPGROUP_IN_VEHICLE</flags>
+		</Item>
+		<Item>
+			<Name>Stadium_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Downtown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Genstreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StLat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_01</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="0" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+					</Variations>
+				</Item>
+				<Item>
+					<Name>A_M_Y_StWhi_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Los_Puerta_StreetGeneral</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_XMech_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_XMech_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_AutoShop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_AutoShop_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Prologue</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_ProlHost_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_ProlHost_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Bevhills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Vinewood_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Salton</Name>
+			<models>
+				<Item>
+					<Name>IG_ramp_hic</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_DECL</Component>
+								<DrawableIndex value="1" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+						<PropRestrictions />
+					</Variations>
+					<Probability />
+				</Item>
+				<Item>
+					<Name>A_M_O_Salton_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Salton_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Salton_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Salton_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Salton_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Hillbilly_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Hillbilly_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_Salton_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Salton_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SALTON_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_MexCntry_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_RurMeth_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VESPUCCI_MAGDEMO</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beachvesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Surfer_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>ROCKFORD</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>BEACH</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Beach_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BeachVesp_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Runner_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Runner_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>BEACH_FAT</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Beach_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_GenFat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Fat_General</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_FatBla_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_FatWhite_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_AfriAmer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_FatLatin_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_GenFat_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Genfat_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Polynesian_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>S_CENTRAL</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SouCent_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_MethHead_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Rurmeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>FASHION</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>BOHEMIAN</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>KOREAN</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_KTown_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>HIPSTERS</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_04</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Skater_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Skater_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Skater_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>EASTLA</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_SouCent_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_SouCent_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_MethHead_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_RurMeth_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VINEWOOD</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>BUSINESS</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Business_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>RESTAURANT_NIGHT</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_BusiCas_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_HasJew_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_KTown_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_O_GenStreet_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT</flags>
+		</Item>
+		<Item>
+			<Name>TRAMP</Name>
+			<models>
+				<Item>
+					<Name>A_F_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_O_Tramp_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_SkidRow_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Skidrow_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>RECREATIONAL</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Runner_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Skater_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Cyclist_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>TOURISTS</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GOLF_COUNTRY</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Golfer_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Golfer_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>DOCKS</Name>
+			<models>
+				<Item>
+					<Name>S_M_M_DockWork_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_DockWork_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>CONSTRUCTION</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>PRISONERS</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_Prisoner_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_PrisMuscl_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>MIGRANT</Name>
+			<models>
+				<Item>
+					<Name>S_F_Y_Migrant_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>ARMY</Name>
+			<models>
+				<Item>
+					<Name>S_M_Y_MARINE_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_MARINE_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_MARINE_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_MARINE_03</Name>
+					<Variations type="CAmbientPedModelVariations">
+						<CompRestrictions>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="2" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+							<Item>
+								<Component>PV_COMP_HAIR</Component>
+								<DrawableIndex value="3" />
+								<Restriction>CantUse</Restriction>
+							</Item>
+						</CompRestrictions>
+						<PropRestrictions />
+						<LoadOut />
+					</Variations>
+					<Probability />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>FREEWAY_COUNTRYSIDE</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Stwhi_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_StBla_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Tourist_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_Tourist_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_BevHills_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IN_VEHICLE</flags>
+		</Item>
+		<Item>
+			<Name>FREEWAY_HAULAGE</Name>
+			<models>
+				<Item>
+					<Name>A_M_M_EastSA_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Trucker_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_Y_Construct_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Autoshop_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_Autoshop_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IN_VEHICLE</flags>
+		</Item>
+		<Item>
+			<Name>GANG_KOREAN</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_Korean_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Korean_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_CHINESE</Name>
+			<models>
+				<Item>
+					<Name>G_M_M_ChiGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_M_ChiGoon_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_FAMILY</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_FAMFOR_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>IG_LAMARDAVIS</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_FAMCA_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_FamDNF_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>IG_G</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_M_OG_Boss_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_SOUTH_LA</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_Azteca_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_VAGOS</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_MexGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_MexGoon_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_MexGoon_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Azteca_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_MexThug_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_BIKER</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_Lost_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Lost_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_Lost_03</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_SALVA</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_SalvaGoon_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_SalvaGoon_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_SalvaGoon_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_SalvaBoss_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>GANG_BALLAS</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_BallaEast_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_BallaOrig_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>G_M_Y_BallaSout_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_IS_GANG POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>NET_COMMON</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_GenStreet_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_GenStreet_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_M_Y_Business_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_BevHills_03</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>S_M_M_AutoShop_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO POPGROUP_NETWORK_COMMON</flags>
+		</Item>
+		<Item>
+			<Name>NET_UNCOMMON</Name>
+			<models>
+				<Item>
+					<Name>A_F_Y_Business_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Fitness_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>RAMPAGE_SOUTH_LS</Name>
+			<models>
+				<Item>
+					<Name>G_M_Y_MexGoon_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>RAMPAGE_LITTLE_SEOUL</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Hipster_02</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>RAMPAGE_ROCKFORD_HILLS</Name>
+			<models>
+				<Item>
+					<Name>A_M_Y_Runner_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Runner_01</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>A_F_Y_Fitness_01</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>Fish</Name>
+			<models>
+				<Item>
+					<Name>A_C_Fish</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_AQUATIC</flags>
+		</Item>
+	</pedGroups>
+	<vehGroups>
+		<Item>
+			<Name>VEH_POOR</Name>
+			<models>
+				<Item><Name>asea</Name><Variations /></Item>
+				<Item><Name>Baller</Name><Variations /></Item>
+				<Item><Name>blade</Name><Variations /></Item>
+				<Item><Name>blista</Name><Variations /></Item>
+				<Item><Name>blista2</Name><Variations /></Item>
+				<Item><Name>buccaneer</Name><Variations /></Item>
+				<Item><Name>cavalcade</Name><Variations /></Item>
+				<Item><Name>chino</Name><Variations /></Item>
+				<Item><Name>virgo</Name><Variations /></Item>
+				<Item><Name>oracle2</Name><Variations /></Item>
+				<Item><Name>emperor2</Name><Variations /></Item>
+				<Item><Name>faction</Name><Variations /></Item>
+				<Item><Name>glendale2</Name><Variations /></Item>
+				<Item><Name>impaler</Name><Variations /></Item>
+				<Item><Name>manana</Name><Variations /></Item>
+				<Item><Name>michelli</Name><Variations /></Item>
+				<Item><Name>retinue</Name><Variations /></Item>
+				<Item><Name>surge</Name><Variations /></Item>
+				<Item><Name>minivan</Name><Variations /></Item>
+				<Item><Name>cheburek</Name><Variations /></Item>
+				<Item><Name>sanchez2</Name><Variations /></Item>
+				<Item><Name>phoenix</Name><Variations /></Item>
+				<Item><Name>picador</Name><Variations /></Item>
+				<Item><Name>premier</Name><Variations /></Item>
+				<Item><Name>regina</Name><Variations /></Item>
+				<Item><Name>rhapsody</Name><Variations /></Item>
+				<Item><Name>stalion</Name><Variations /></Item>
+				<Item><Name>stratum</Name><Variations /></Item>
+				<Item><Name>sabregt</Name><Variations /></Item>
+				<Item><Name>dilettante</Name><Variations /></Item>
+				<Item><Name>vamos</Name><Variations /></Item>
+				<Item><Name>Emperor</Name><Variations /></Item>
+				<Item><Name>vigero</Name><Variations /></Item>
+				<Item><Name>warrener</Name><Variations /></Item>
+				<Item><Name>youga</Name><Variations /></Item>
+				<Item><Name>voodoo</Name><Variations /></Item>
+				<Item><Name>buccaneer2</Name><Variations /></Item>
+				<Item><Name>chino2</Name><Variations /></Item>
+				<Item><Name>virgo2</Name><Variations /></Item>
+				<Item><Name>tornado5</Name><Variations /></Item>
+				<Item><Name>primo2</Name><Variations /></Item>
+				<Item><Name>faction2</Name><Variations /></Item>
+				<Item><Name>faction3</Name><Variations /></Item>
+				<Item><Name>moonbeam2</Name><Variations /></Item>
+				<Item><Name>sabregt2</Name><Variations /></Item>
+				<Item><Name>minivan2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_MID</Name>
+			<models>
+				<Item><Name>baller2</Name><Variations /></Item>
+				<Item><Name>buffalo</Name><Variations /></Item>
+				<Item><Name>cavalcade</Name><Variations /></Item>
+				<Item><Name>pigalle</Name><Variations /></Item>
+				<Item><Name>cavalcade2</Name><Variations /></Item>
+				<Item><Name>gresley</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>dubsta</Name><Variations /></Item>
+				<Item><Name>glendale</Name><Variations /></Item>
+				<Item><Name>tailgater</Name><Variations /></Item>
+				<Item><Name>fq2</Name><Variations /></Item>
+				<Item><Name>rocoto</Name><Variations /></Item>
+				<Item><Name>zion3</Name><Variations /></Item>
+				<Item><Name>fugitive</Name><Variations /></Item>
+				<Item><Name>fusilade</Name><Variations /></Item>
+				<Item><Name>Habanero</Name><Variations /></Item>
+				<Item><Name>jester</Name><Variations /></Item>
+				<Item><Name>issi2</Name><Variations /></Item>
+				<Item><Name>gauntlet</Name><Variations /></Item>
+				<Item><Name>Landstalker</Name><Variations /></Item>
+				<Item><Name>Mesa</Name><Variations /></Item>
+				<Item><Name>Mule</Name><Variations /></Item>
+				<Item><Name>oracle</Name><Variations /></Item>
+				<Item><Name>oracle2</Name><Variations /></Item>
+				<Item><Name>sentinel</Name><Variations /></Item>
+				<Item><Name>sentinel2</Name><Variations /></Item>
+				<Item><Name>Patriot</Name><Variations /></Item>
+				<Item><Name>peyote</Name><Variations /></Item>
+				<Item><Name>huntley</Name><Variations /></Item>
+				<Item><Name>penumbra</Name><Variations /></Item>
+				<Item><Name>prairie</Name><Variations /></Item>
+				<Item><Name>radi</Name><Variations /></Item>
+				<Item><Name>ruiner</Name><Variations /></Item>
+				<Item><Name>sabregt</Name><Variations /></Item>
+				<Item><Name>stanier</Name><Variations /></Item>
+				<Item><Name>tornado2</Name><Variations /></Item>
+				<Item><Name>washington</Name><Variations /></Item>
+				<Item><Name>zion2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO POPGROUP_NETWORK_COMMON</flags>
+		</Item>
+		<Item>
+			<Name>VEH_MID_MP</Name>
+			<models>
+				<Item><Name>baller2</Name><Variations /></Item>
+				<Item><Name>tailgater</Name><Variations /></Item>
+				<Item><Name>buffalo</Name><Variations /></Item>
+				<Item><Name>cavalcade</Name><Variations /></Item>
+				<Item><Name>cavalcade2</Name><Variations /></Item>
+				<Item><Name>gresley</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>dubsta</Name><Variations /></Item>
+				<Item><Name>glendale</Name><Variations /></Item>
+				<Item><Name>gburrito</Name><Variations /></Item>
+				<Item><Name>fq2</Name><Variations /></Item>
+				<Item><Name>rocoto</Name><Variations /></Item>
+				<Item><Name>zion3</Name><Variations /></Item>
+				<Item><Name>fugitive</Name><Variations /></Item>
+				<Item><Name>fusilade</Name><Variations /></Item>
+				<Item><Name>Habanero</Name><Variations /></Item>
+				<Item><Name>jester</Name><Variations /></Item>
+				<Item><Name>issi2</Name><Variations /></Item>
+				<Item><Name>gauntlet</Name><Variations /></Item>
+				<Item><Name>virgo3</Name><Variations /></Item>
+				<Item><Name>landstalker</Name><Variations /></Item>
+				<Item><Name>issi3</Name><Variations /></Item>
+				<Item><Name>Mesa</Name><Variations /></Item>
+				<Item><Name>Mule</Name><Variations /></Item>
+				<Item><Name>oracle</Name><Variations /></Item>
+				<Item><Name>tornado</Name><Variations /></Item>
+				<Item><Name>oracle2</Name><Variations /></Item>
+				<Item><Name>sentinel</Name><Variations /></Item>
+				<Item><Name>sentinel2</Name><Variations /></Item>
+				<Item><Name>Patriot</Name><Variations /></Item>
+				<Item><Name>jackal</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>peyote</Name><Variations /></Item>
+				<Item><Name>huntley</Name><Variations /></Item>
+				<Item><Name>penumbra</Name><Variations /></Item>
+				<Item><Name>prairie</Name><Variations /></Item>
+				<Item><Name>radi</Name><Variations /></Item>
+				<Item><Name>ruiner</Name><Variations /></Item>
+				<Item><Name>sabregt</Name><Variations /></Item>
+				<Item><Name>sabregt2</Name><Variations /></Item>
+				<Item><Name>stanier</Name><Variations /></Item>
+				<Item><Name>tornado2</Name><Variations /></Item>
+				<Item><Name>washington</Name><Variations /></Item>
+				<Item><Name>zion2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO POPGROUP_NETWORK_COMMON</flags>
+		</Item>
+		<Item>
+			<Name>VEH_RICH</Name>
+			<models>
+				<Item><Name>alpha</Name><Variations /></Item>
+				<Item><Name>baller3</Name><Variations /></Item>
+				<Item><Name>baller4</Name><Variations /></Item>
+				<Item><Name>banshee</Name><Variations /></Item>
+				<Item><Name>bjxl</Name><Variations /></Item>
+				<Item><Name>bullet</Name><Variations /></Item>
+				<Item><Name>cogcabrio</Name><Variations /></Item>
+				<Item><Name>carbonizzare</Name><Variations /></Item>
+				<Item><Name>Comet2</Name><Variations /></Item>
+				<Item><Name>coquette</Name><Variations /></Item>
+				<Item><Name>Exemplar</Name><Variations /></Item>
+				<Item><Name>dubsta2</Name><Variations /></Item>
+				<Item><Name>feltzer2</Name><Variations /></Item>
+				<Item><Name>felon</Name><Variations /></Item>
+				<Item><Name>felon2</Name><Variations /></Item>
+				<Item><Name>massacro</Name><Variations /></Item>
+				<Item><Name>f620</Name><Variations /></Item>
+				<Item><Name>furoregt</Name><Variations /></Item>
+				<Item><Name>infernus</Name><Variations /></Item>
+				<Item><Name>jackal</Name><Variations /></Item>
+				<Item><Name>lynx</Name><Variations /></Item>
+				<Item><Name>ninef</Name><Variations /></Item>
+				<Item><Name>ninef2</Name><Variations /></Item>
+				<Item><Name>rapidgt</Name><Variations /></Item>
+				<Item><Name>rapidgt2</Name><Variations /></Item>
+				<Item><Name>rapidgt3</Name><Variations /></Item>
+				<Item><Name>schwarzer</Name><Variations /></Item>
+				<Item><Name>Serrano</Name><Variations /></Item>
+				<Item><Name>superd</Name><Variations /></Item>
+				<Item><Name>surano</Name><Variations /></Item>
+				<Item><Name>voltic</Name><Variations /></Item>
+				<Item><Name>cognoscenti</Name><Variations /></Item>
+				<Item><Name>xls</Name><Variations /></Item>
+				<Item><Name>casco</Name><Variations /></Item>
+				<Item><Name>monroe</Name><Variations /></Item>
+				<Item><Name>elegy2</Name><Variations /></Item>
+				<Item><Name>windsor</Name><Variations /></Item>
+				<Item><Name>windsor2</Name><Variations /></Item>
+				<Item><Name>btype3</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_HAULAGE</Name>
+			<models>
+				<Item><Name>hauler</Name><Variations /></Item>
+				<Item><Name>flatbed</Name><Variations /></Item>
+				<Item><Name>mixer</Name><Variations /></Item>
+				<Item><Name>mixer2</Name><Variations /></Item>
+				<Item><Name>mule</Name><Variations /></Item>
+				<Item><Name>packer</Name><Variations /></Item>
+				<Item><Name>phantom</Name><Variations /></Item>
+				<Item><Name>pounder</Name><Variations /></Item>
+				<Item><Name>tiptruck</Name><Variations /></Item>
+				<Item><Name>tiptruck2</Name><Variations /></Item>
+				<Item><Name>coach</Name><Variations /></Item>
+				<Item><Name>lsfuel</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_HAULAGE_MP</Name>
+			<models>
+				<Item><Name>hauler</Name><Variations /></Item>
+				<Item><Name>flatbed</Name><Variations /></Item>
+				<Item><Name>mixer</Name><Variations /></Item>
+				<Item><Name>mixer2</Name><Variations /></Item>
+				<Item><Name>mule</Name><Variations /></Item>
+				<Item><Name>packer</Name><Variations /></Item>
+				<Item><Name>phantom</Name><Variations /></Item>
+				<Item><Name>pounder</Name><Variations /></Item>
+				<Item><Name>tiptruck</Name><Variations /></Item>
+				<Item><Name>tiptruck2</Name><Variations /></Item>
+				<Item><Name>coach</Name><Variations /></Item>
+				<Item><Name>lsfuel</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_UTILITY</Name>
+			<models>
+				<Item><Name>boxville</Name><Variations /></Item>
+				<Item><Name>pony</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>trash</Name><Variations /></Item>
+				<Item><Name>trash2</Name><Variations /></Item>
+				<Item><Name>utillitruck</Name><Variations /></Item>
+				<Item><Name>utillitruck3</Name><Variations /></Item>
+				<Item><Name>utillitruck2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_WORKERS</Name>
+			<models>
+				<Item><Name>flatbed</Name><Variations /></Item>
+				<Item><Name>utillitruck3</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_FREEWAY</Name>
+			<models>
+				<Item><Name>banshee</Name><Variations /></Item>
+				<Item><Name>carbonizzare</Name><Variations /></Item>
+				<Item><Name>Comet2</Name><Variations /></Item>
+				<Item><Name>feltzer2</Name><Variations /></Item>
+				<Item><Name>lynx</Name><Variations /></Item>
+				<Item><Name>xls</Name><Variations /></Item>
+				<Item><Name>windsor</Name><Variations /></Item>
+				<Item><Name>fusilade</Name><Variations /></Item>
+				<Item><Name>fugitive</Name><Variations /></Item>
+				<Item><Name>buffalo</Name><Variations /></Item>
+				<Item><Name>buffalo2</Name><Variations /></Item>
+				<Item><Name>burrito</Name><Variations /></Item>
+				<Item><Name>burrito3</Name><Variations /></Item>
+				<Item><Name>camper</Name><Variations /></Item>
+				<Item><Name>cavalcade2</Name><Variations /></Item>
+				<Item><Name>coach</Name><Variations /></Item>
+				<Item><Name>deviant</Name><Variations /></Item>
+				<Item><Name>dominator</Name><Variations /></Item>
+				<Item><Name>faction</Name><Variations /></Item>
+				<Item><Name>fagaloa</Name><Variations /></Item>
+				<Item><Name>flatbed</Name><Variations /></Item>
+				<Item><Name>Habanero</Name><Variations /></Item>
+				<Item><Name>hauler</Name><Variations /></Item>
+				<Item><Name>intruder</Name><Variations /></Item>
+				<Item><Name>jackal</Name><Variations /></Item>
+				<Item><Name>journey</Name><Variations /></Item>
+				<Item><Name>minivan</Name><Variations /></Item>	
+				<Item><Name>pony</Name><Variations /></Item>
+				<Item><Name>primo</Name><Variations /></Item>
+				<Item><Name>radi</Name><Variations /></Item>
+				<Item><Name>rumpo2</Name><Variations /></Item>
+				<Item><Name>seminole</Name><Variations /></Item>
+				<Item><Name>slamvan</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>stanier</Name><Variations /></Item>
+				<Item><Name>stratum</Name><Variations /></Item>
+				<Item><Name>washington</Name><Variations /></Item>
+				<Item><Name>zion</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_FREEWAY_MP</Name>
+			<models>
+				<Item><Name>banshee</Name><Variations /></Item>
+				<Item><Name>carbonizzare</Name><Variations /></Item>
+				<Item><Name>Comet2</Name><Variations /></Item>
+				<Item><Name>feltzer2</Name><Variations /></Item>
+				<Item><Name>lynx</Name><Variations /></Item>
+				<Item><Name>xls</Name><Variations /></Item>
+				<Item><Name>windsor</Name><Variations /></Item>
+				<Item><Name>fusilade</Name><Variations /></Item>
+				<Item><Name>fugitive</Name><Variations /></Item>
+				<Item><Name>buffalo</Name><Variations /></Item>
+				<Item><Name>buffalo2</Name><Variations /></Item>
+				<Item><Name>burrito</Name><Variations /></Item>
+				<Item><Name>burrito3</Name><Variations /></Item>
+				<Item><Name>camper</Name><Variations /></Item>
+				<Item><Name>cavalcade2</Name><Variations /></Item>
+				<Item><Name>coach</Name><Variations /></Item>
+				<Item><Name>deviant</Name><Variations /></Item>
+				<Item><Name>dominator</Name><Variations /></Item>
+				<Item><Name>faction</Name><Variations /></Item>
+				<Item><Name>fagaloa</Name><Variations /></Item>
+				<Item><Name>flatbed</Name><Variations /></Item>
+				<Item><Name>Habanero</Name><Variations /></Item>
+				<Item><Name>hauler</Name><Variations /></Item>
+				<Item><Name>intruder</Name><Variations /></Item>
+				<Item><Name>jackal</Name><Variations /></Item>
+				<Item><Name>journey</Name><Variations /></Item>
+				<Item><Name>minivan</Name><Variations /></Item>	
+				<Item><Name>pony</Name><Variations /></Item>
+				<Item><Name>primo</Name><Variations /></Item>
+				<Item><Name>radi</Name><Variations /></Item>
+				<Item><Name>rumpo2</Name><Variations /></Item>
+				<Item><Name>seminole</Name><Variations /></Item>
+				<Item><Name>slamvan</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>stanier</Name><Variations /></Item>
+				<Item><Name>stratum</Name><Variations /></Item>
+				<Item><Name>washington</Name><Variations /></Item>
+				<Item><Name>zion</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_TRASH</Name>
+			<models>
+				<Item><Name>trash</Name><Variations /></Item>
+				<Item><Name>trash2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COURIER</Name>
+			<models>
+				<Item><Name>taxi</Name><Variations /></Item>
+				<Item><Name>stockade</Name><Variations /></Item>
+				<Item><Name>boxville2</Name><Variations /></Item>
+				<Item><Name>boxville4</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COURIER2</Name>
+			<models>
+				<Item><Name>boxville</Name><Variations /></Item>
+				<Item><Name>boxville3</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_LARGE_CITY</Name>
+			<models>
+				<Item><Name>burrito</Name><Variations /></Item>
+				<Item><Name>burrito3</Name><Variations /></Item>
+				<Item><Name>pony</Name><Variations /></Item>
+				<Item><Name>rumpo2</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>taco</Name><Variations /></Item>
+				<Item><Name>youga2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_LARGE_CITY_MP</Name>
+			<models>
+				<Item><Name>burrito</Name><Variations /></Item>
+				<Item><Name>burrito3</Name><Variations /></Item>
+				<Item><Name>pony</Name><Variations /></Item>
+				<Item><Name>rumpo2</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>taco</Name><Variations /></Item>
+				<Item><Name>youga2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COUNTRYSIDE_OFFROAD</Name>
+			<models>
+				<Item><Name>sandking</Name><Variations /></Item>
+				<Item><Name>sandking2</Name><Variations /></Item>
+				<Item><Name>sanchez2</Name><Variations /></Item>
+				<Item><Name>sanchez</Name><Variations /></Item>
+				<Item><Name>picador</Name><Variations /></Item>
+				<Item><Name>rebel2</Name><Variations /></Item>
+				<Item><Name>tornado3</Name><Variations /></Item>
+				<Item><Name>surfer2</Name><Variations /></Item>
+				<Item><Name>voodoo2</Name><Variations /></Item>
+				<Item><Name>emperor2</Name><Variations /></Item>
+				<Item><Name>Caddy2</Name><Variations /></Item>
+				<Item><Name>Blazer</Name><Variations /></Item>
+				<Item><Name>bfinjection</Name><Variations /></Item>
+				<Item><Name>bodhi2</Name><Variations /></Item>
+				<Item><Name>bjxl</Name><Variations /></Item>
+				<Item><Name>bobcatXL</Name><Variations /></Item>
+				<Item><Name>bison</Name><Variations /></Item>
+				<Item><Name>dloader</Name><Variations /></Item>
+				<Item><Name>blista2</Name><Variations /></Item>
+				<Item><Name>cheburek</Name><Variations /></Item>
+				<Item><Name>warrener</Name><Variations /></Item>
+				<Item><Name>emperor</Name><Variations /></Item>
+				<Item><Name>granger</Name><Variations /></Item>
+				<Item><Name>blazer4</Name><Variations /></Item>
+				<Item><Name>manchez</Name><Variations /></Item>
+				<Item><Name>Mesa</Name><Variations /></Item>
+				<Item><Name>enduro</Name><Variations /></Item>
+				<Item><Name>Patriot</Name><Variations /></Item>
+				<Item><Name>rancherxl</Name><Variations /></Item>
+				<Item><Name>rebel</Name><Variations /></Item>
+				<Item><Name>baller</Name><Variations /></Item>
+				<Item><Name>cavalcade</Name><Variations /></Item>
+				<Item><Name>dubsta</Name><Variations /></Item>
+				<Item><Name>landstalker</Name><Variations /></Item>
+				<Item><Name>seminole</Name><Variations /></Item>
+				<Item><Name>regina</Name><Variations /></Item>
+				<Item><Name>dune</Name><Variations /></Item>
+				<Item><Name>kalahari</Name><Variations /></Item>
+				<Item><Name>sadler</Name><Variations /></Item>
+				<Item><Name>tractor2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COUNTRYSIDE_ONROAD</Name>
+			<models>
+				<Item><Name>asea</Name><Variations /></Item>
+				<Item><Name>blista</Name><Variations /></Item>
+				<Item><Name>burrito3</Name><Variations /></Item>
+				<Item><Name>dukes</Name><Variations /></Item>
+				<Item><Name>emperor</Name><Variations /></Item>
+				<Item><Name>hermes</Name><Variations /></Item>
+				<Item><Name>fagaloa</Name><Variations /></Item>
+				<Item><Name>surfer</Name><Variations /></Item>
+				<Item><Name>fq2</Name><Variations /></Item>
+				<Item><Name>fugitive</Name><Variations /></Item>
+				<Item><Name>gresley</Name><Variations /></Item>
+				<Item><Name>Habanero</Name><Variations /></Item>
+				<Item><Name>Ingot</Name><Variations /></Item>
+				<Item><Name>journey</Name><Variations /></Item>
+				<Item><Name>Landstalker</Name><Variations /></Item>
+				<Item><Name>mesa</Name><Variations /></Item>
+				<Item><Name>Minivan</Name><Variations /></Item>
+				<Item><Name>moonbeam</Name><Variations /></Item>
+				<Item><Name>penumbra</Name><Variations /></Item>
+				<Item><Name>picador</Name><Variations /></Item>
+				<Item><Name>prairie</Name><Variations /></Item>
+				<Item><Name>regina</Name><Variations /></Item>
+				<Item><Name>sandking2</Name><Variations /></Item>
+				<Item><Name>schafter2</Name><Variations /></Item>
+				<Item><Name>serrano</Name><Variations /></Item>
+				<Item><Name>seminole</Name><Variations /></Item>
+				<Item><Name>slamvan</Name><Variations /></Item>
+				<Item><Name>cliffhanger</Name><Variations /></Item>
+				<Item><Name>speedo</Name><Variations /></Item>
+				<Item><Name>stratum</Name><Variations /></Item>
+				<Item><Name>tractor2</Name><Variations /></Item>
+				<Item><Name>tulip</Name><Variations /></Item>
+				<Item><Name>yosemite</Name><Variations /></Item>
+				<Item><Name>vigero</Name><Variations /></Item>
+				<Item><Name>blade</Name><Variations /></Item>
+				<Item><Name>deviant</Name><Variations /></Item>
+				<Item><Name>gauntlet</Name><Variations /></Item>
+				<Item><Name>ratloader</Name><Variations /></Item>
+				<Item><Name>sabregt</Name><Variations /></Item>
+				<Item><Name>stalion</Name><Variations /></Item>
+				<Item><Name>tampa</Name><Variations /></Item>
+				<Item><Name>voodoo2</Name><Variations /></Item>
+				<Item><Name>bfinjection</Name><Variations /></Item>
+				<Item><Name>bodhi2</Name><Variations /></Item>
+				<Item><Name>mesa3</Name><Variations /></Item>
+				<Item><Name>rebel</Name><Variations /></Item>
+				<Item><Name>rebel2</Name><Variations /></Item>
+				<Item><Name>trophytruck</Name><Variations /></Item>
+				<Item><Name>baller</Name><Variations /></Item>
+				<Item><Name>baller2</Name><Variations /></Item>
+				<Item><Name>bjxl</Name><Variations /></Item>
+				<Item><Name>cavalcade</Name><Variations /></Item>
+				<Item><Name>cavalcade2</Name><Variations /></Item>
+				<Item><Name>granger</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>LARGE_COUNTRYSIDE</Name>
+			<models>
+				<Item><Name>benson</Name><Variations /></Item>
+				<Item><Name>biff</Name><Variations /></Item>
+				<Item><Name>boxville</Name><Variations /></Item>
+				<Item><Name>boxville3</Name><Variations /></Item>
+				<Item><Name>hauler</Name><Variations /></Item>
+				<Item><Name>packer</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_YANKTON</Name>
+			<models>
+				<Item><Name>voodoo</Name><Variations /></Item>
+				<Item><Name>buccaneer2</Name><Variations /></Item>
+				<Item><Name>chino2</Name><Variations /></Item>
+				<Item><Name>virgo2</Name><Variations /></Item>
+				<Item><Name>tornado5</Name><Variations /></Item>
+				<Item><Name>primo2</Name><Variations /></Item>
+				<Item><Name>faction2</Name><Variations /></Item>
+				<Item><Name>faction3</Name><Variations /></Item>
+				<Item><Name>moonbeam2</Name><Variations /></Item>
+				<Item><Name>sabregt2</Name><Variations /></Item>
+				<Item><Name>minivan2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_BIKES</Name>
+			<models>
+				<Item><Name>akuma</Name><Variations /></Item>
+				<Item><Name>bagger</Name><Variations /></Item>
+				<Item><Name>bati</Name><Variations /></Item>
+				<Item><Name>carbonrs</Name><Variations /></Item>
+				<Item><Name>double</Name><Variations /></Item>
+				<Item><Name>diablous</Name><Variations /></Item>
+				<Item><Name>esskey</Name><Variations /></Item>
+				<Item><Name>faggio</Name><Variations /></Item>
+				<Item><Name>faggio2</Name><Variations /></Item>
+				<Item><Name>hexer</Name><Variations /></Item>
+				<Item><Name>zombieb</Name><Variations /></Item>
+				<Item><Name>nemesis</Name><Variations /></Item>
+				<Item><Name>pcj</Name><Variations /></Item>
+				<Item><Name>ruffian</Name><Variations /></Item>
+				<Item><Name>thrust</Name><Variations /></Item>
+				<Item><Name>wolfsbane</Name><Variations /></Item>
+				<Item><Name>cliffhanger</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>NATIVE_ZON_ONLY</Name>
+			<models>
+				<Item><Name>airtug</Name><Variations /></Item>
+				<Item><Name>ripley</Name><Variations /></Item>
+				<Item><Name>caddy</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_SALT</Name>
+			<models>
+				<Item><Name>sanchez2</Name><Variations /></Item>
+				<Item><Name>sanchez</Name><Variations /></Item>
+				<Item><Name>picador</Name><Variations /></Item>
+				<Item><Name>BFinjection</Name><Variations /></Item>
+				<Item><Name>Rebel2</Name><Variations /></Item>
+				<Item><Name>tornado3</Name><Variations /></Item>
+				<Item><Name>surfer2</Name><Variations /></Item>
+				<Item><Name>voodoo2</Name><Variations /></Item>
+				<Item><Name>Emperor2</Name><Variations /></Item>
+				<Item><Name>Caddy2</Name><Variations /></Item>
+				<Item><Name>Blazer</Name><Variations /></Item>
+				<Item><Name>bfinjection</Name><Variations /></Item>
+				<Item><Name>bodhi2</Name><Variations /></Item>
+				<Item><Name>bjxl</Name><Variations /></Item>
+				<Item><Name>BobcatXL</Name><Variations /></Item>
+				<Item><Name>bison</Name><Variations /></Item>
+				<Item><Name>dloader</Name><Variations /></Item>
+				<Item><Name>blista2</Name><Variations /></Item>
+				<Item><Name>cheburek</Name><Variations /></Item>
+				<Item><Name>warrener</Name><Variations /></Item>
+				<Item><Name>emperor</Name><Variations /></Item>
+				<Item><Name>granger</Name><Variations /></Item>
+				<Item><Name>blazer4</Name><Variations /></Item>
+				<Item><Name>manchez</Name><Variations /></Item>
+				<Item><Name>Mesa</Name><Variations /></Item>
+				<Item><Name>enduro</Name><Variations /></Item>
+				<Item><Name>Patriot</Name><Variations /></Item>
+				<Item><Name>rancherxl</Name><Variations /></Item>
+				<Item><Name>Rebel</Name><Variations /></Item>
+				<Item><Name>baller</Name><Variations /></Item>
+				<Item><Name>cavalcade</Name><Variations /></Item>
+				<Item><Name>dubsta</Name><Variations /></Item>
+				<Item><Name>landstalker</Name><Variations /></Item>
+				<Item><Name>seminole</Name><Variations /></Item>
+				<Item><Name>regina</Name><Variations /></Item>
+				<Item><Name>dune</Name><Variations /></Item>
+				<Item><Name>kalahari</Name><Variations /></Item>
+				<Item><Name>sadler</Name><Variations /></Item>
+				<Item><Name>tractor2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_ARMY</Name>
+			<models>
+				<Item><Name>crusader</Name><Variations /></Item>
+				<Item><Name>barracks</Name><Variations /></Item>
+				<Item><Name>barracks2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_BOATS</Name>
+			<models>
+				<Item><Name>Seashark</Name><Variations /></Item>
+				<Item><Name>Seashark3</Name><Variations /></Item>
+				<Item><Name>jetmax</Name><Variations /></Item>
+				<Item><Name>Squalo</Name><Variations /></Item>
+				<Item><Name>suntrap</Name><Variations /></Item>
+				<Item><Name>toro2</Name><Variations /></Item>
+				<Item><Name>tropic2</Name><Variations /></Item>
+				<Item><Name>dinghy2</Name><Variations /></Item>
+				<Item><Name>dinghy4</Name><Variations /></Item>
+				<Item><Name>speeder</Name><Variations /></Item>
+				<Item><Name>speeder2</Name><Variations /></Item>
+				<Item><Name>bifta</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_BOATS_FREEWAY</Name>
+			<models>
+				<Item><Name>Squalo</Name><Variations /></Item>
+				<Item><Name>tropic2</Name><Variations /></Item>
+				<Item><Name>dinghy2</Name><Variations /></Item>
+				<Item><Name>toro2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_BICYCLES</Name>
+			<models>
+				<Item><Name>Scorcher</Name><Variations /></Item>
+				<Item><Name>Cruiser</Name><Variations /></Item>
+				<Item><Name>fixter</Name><Variations /></Item>
+				<Item><Name>bmx</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_BEACH_BIKE</Name>
+			<models>
+				<Item><Name>Scorcher</Name><Variations /></Item>
+				<Item><Name>bmx</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_LOST</Name>
+			<models>
+				<Item><Name>avarus</Name><Variations /></Item>
+				<Item><Name>daemon</Name><Variations /></Item>
+				<Item><Name>daemon2</Name><Variations /></Item>
+				<Item><Name>innovation</Name><Variations /></Item>
+				<Item><Name>nightblade</Name><Variations /></Item>
+				<Item><Name>gargoyle</Name><Variations /></Item>
+				<Item><Name>sanctus</Name><Variations /></Item>
+				<Item><Name>sovereign</Name><Variations /></Item>
+				<Item><Name>zombiea</Name><Variations /></Item>
+				<Item><Name>zombieb</Name><Variations /></Item>
+				<Item><Name>deathbike</Name><Variations /></Item>
+				<Item><Name>zombiea</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COPCAR</Name>
+			<models>
+				<Item><Name>Police</Name><Variations /></Item>
+				<Item><Name>Police2</Name><Variations /></Item>
+				<Item><Name>Police3</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COPCAR2</Name>
+			<models>
+				<Item><Name>sheriff</Name><Variations /></Item>
+				<Item><Name>sheriff2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COP_CYCLE</Name>
+			<models>
+				<Item><Name>policeb</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_RANGER</Name>
+			<models>
+				<Item><Name>pranger</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_TAXI</Name>
+			<models>
+				<Item><Name>taxi</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_AIRPORT</Name>
+			<models>
+				<Item><Name>airbus</Name><Variations /></Item>
+				<Item><Name>rentalbus</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_TRANSPORT</Name>
+			<models>
+				<Item><Name>bus</Name><Variations /></Item>
+				<Item><Name>taxi</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_COUNTRYCOACH</Name>
+			<models>
+				<Item><Name>Coach</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_PROLOGUE</Name>
+			<models>
+				<Item><Name>Policeold1</Name><Variations /></Item>
+				<Item><Name>Policeold2</Name><Variations /></Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>NET_COMMON</Name>
+			<models/>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO POPGROUP_NETWORK_COMMON</flags>
+		</Item>
+		<Item>
+			<Name>NET_UNCOMMON</Name>
+			<models>
+				<Item>
+					<Name>infernus</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>elegy2</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>lynx</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>buffalo2</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>monroe</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>baller3</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>baller4</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>cognoscenti</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>trophytruck</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>stockade</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_TEST_SIMPLE</Name>
+			<models>
+				<Item>
+					<Name>blista</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>bullet</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>bus</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>ingot</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>sadler</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>surfer2</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+		<Item>
+			<Name>VEH_TEST_COMPLEX</Name>
+			<models>
+				<Item>
+					<Name>bati</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>blista</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>hauler</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>ingot</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>issi2</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>sadler</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>surfer2</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>towtruck</Name>
+					<Variations />
+				</Item>
+				<Item>
+					<Name>trash</Name>
+					<Variations />
+				</Item>
+			</models>
+			<flags>POPGROUP_AMBIENT POPGROUP_SCENARIO</flags>
+		</Item>
+	</vehGroups>
+	<wildlifeHabitats>
+		<Item>SAND_LOOSE</Item>
+		<Item>SAND_COMPACT</Item>
+		<Item>SAND_WET</Item>
+		<Item>GRASS_LONG</Item>
+		<Item>GRASS</Item>
+		<Item>GRASS_SHORT</Item>
+	</wildlifeHabitats>
+</CPopGroupList>

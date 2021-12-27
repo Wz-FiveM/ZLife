@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+	<Item>
+      <uvPos x="0.235" y="0.83" />
+      <scale x="0.20" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_samourai_top_M</nameHash>
+      <txdHash>badge_samourai_top</txdHash>
+      <txtHash>badge_samourai_top</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.62" />
+      <scale x="0.18" y="0.19" />
+      <rotation value="0.000000" />
+      <nameHash>badge_samourai_center_M</nameHash>
+      <txdHash>badge_samourai_center</txdHash>
+      <txtHash>badge_samourai_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.33" y="0.465" />
+      <scale x="0.20" y="0.20" />
+      <rotation value="0.000000" />
+      <nameHash>badge_samourai_mc_M</nameHash>
+      <txdHash>badge_samourai_mc</txdHash>
+      <txtHash>badge_samourai_mc</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.6" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_samourai_bottom_M</nameHash>
+      <txdHash>badge_samourai_bottom</txdHash>
+      <txtHash>badge_samourai_bottom</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="-0.23" y="0.675" />
+      <scale x="0.12" y="0.12" />
+      <rotation value="0.000000" />
+      <nameHash>badge_samourai_front_M</nameHash>
+      <txdHash>badge_samourai_front</txdHash>
+      <txtHash>badge_samourai_front</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="-0.115" y="0.63" />
+      <scale x="0.08" y="0.08" />
+      <rotation value="0.0" />
+      <nameHash>badge_samourai_1pourcent_M</nameHash>
+      <txdHash>badge_samourai_1pourcent</txdHash>
+      <txtHash>badge_samourai_1pourcent</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.62" />
+      <scale x="0.18" y="0.19" />
+      <rotation value="0.000000" />
+      <nameHash>badge_samourai_devise_M</nameHash>
+      <txdHash>badge_samourai_devise</txdHash>
+      <txtHash>badge_samourai_devise</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.55" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_lesvikings_center_M</nameHash>
+      <txdHash>badge_lesvikings_center</txdHash>
+      <txtHash>badge_lesvikings_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.55" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_lostigres_center_M</nameHash>
+      <txdHash>badge_lostigres_center</txdHash>
+      <txtHash>badge_lostigres_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.6" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_blooddiamond_center_M</nameHash>
+      <txdHash>badge_blooddiamond_center</txdHash>
+      <txtHash>badge_blooddiamond_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.6" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_animalbrotherhood_center_M</nameHash>
+      <txdHash>badge_animalbrotherhood_center</txdHash>
+      <txtHash>badge_animalbrotherhood_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.6" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_akatsuki_center_M</nameHash>
+      <txdHash>badge_akatsuki_center</txdHash>
+      <txtHash>badge_akatsuki_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+  <Item>
+      <uvPos x="0.235" y="0.6" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_s1q_center_M</nameHash>
+      <txdHash>badge_s1q_center</txdHash>
+      <txtHash>badge_s1q_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.6" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_vaynah_center_M</nameHash>
+      <txdHash>badge_vaynah_center</txdHash>
+      <txtHash>badge_vaynah_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.67" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_losthussards_center_M</nameHash>
+      <txdHash>badge_losthussards_center</txdHash>
+      <txtHash>badge_losthussards_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+	<Item>
+      <uvPos x="0.235" y="0.67" />
+      <scale x="0.17" y="0.18" />
+      <rotation value="0.000000" />
+      <nameHash>badge_loshermanos_center_M</nameHash>
+      <txdHash>badge_loshermanos_center</txdHash>
+      <txtHash>badge_loshermanos_center</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="-0.19" y="0.57" />
+    <scale x="0.07" y="0.07" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_2pac_M</nameHash>
+    <txdHash>tattoo_2pac</txdHash>
+    <txtHash>tattoo_2pac</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="-0.27" y="0.42" />
+    <scale x="0.07" y="0.07" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_50niggaz_M</nameHash>
+    <txdHash>tattoo_50niggaz</txdHash>
+    <txtHash>tattoo_50niggaz</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="-0.36" y="0.6" />
+    <scale x="0.07" y="0.07" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_neferetiti_M</nameHash>
+    <txdHash>tattoo_neferetiti</txdHash>
+    <txtHash>tattoo_neferetiti</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="-0.28" y="0.3" />
+    <scale x="0.21" y="0.19" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_thuglife_M</nameHash>
+    <txdHash>tattoo_thuglife</txdHash>
+    <txtHash>tattoo_thuglife</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.23" y="0.47" />
+    <scale x="0.22" y="0.26" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_exodus_M</nameHash>
+    <txdHash>tattoo_exodus</txdHash>
+    <txtHash>tattoo_exodus</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.24" y="0.21" />
+    <scale x="0.20" y="0.20" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_ballin_M</nameHash>
+    <txdHash>tattoo_ballin</txdHash>
+    <txtHash>tattoo_ballin</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.23" y="0.73" />
+    <scale x="0.20" y="0.20" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_fucktheworld_M</nameHash>
+    <txdHash>tattoo_fucktheworld</txdHash>
+    <txtHash>tattoo_fucktheworld</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.33" y="0.41" />
+    <scale x="0.10" y="0.10" />
+    <rotation value="-12.000000" />
+    <nameHash>tattoo_crylater_M</nameHash>
+    <txdHash>tattoo_crylater</txdHash>
+    <txtHash>tattoo_crylater</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.13" y="0.41" />
+    <scale x="0.10" y="0.10" />
+    <rotation value="12.000000" />
+    <nameHash>tattoo_smilenow_M</nameHash>
+    <txdHash>tattoo_smilenow</txdHash>
+    <txtHash>tattoo_smilenow</txtHash>
+    <zone>ZONE_TORSO</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.24" y="0.75" />
+    <scale x="0.12" y="0.12" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_heartless_M</nameHash>
+    <txdHash>tattoo_heartless</txdHash>
+    <txtHash>tattoo_heartless</txtHash>
+    <zone>ZONE_RIGHT_ARM</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  <Item>
+    <uvPos x="0.47" y="0.88" />
+    <scale x="0.06" y="0.07" />
+    <rotation value="0.000000" />
+    <nameHash>tattoo_blackpanther_M</nameHash>
+    <txdHash>tattoo_blackpanther</txdHash>
+    <txtHash>tattoo_blackpanther</txtHash>
+    <zone>ZONE_LEFT_ARM</zone>
+    <type>TYPE_TATTOO</type>
+    <faction>FM</faction>
+    <garment>All</garment>
+    <gender>GENDER_MALE</gender>
+    <award />
+    <awardLevel />
+  </Item>
+  </presets>
+  <nameHash>new_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000	0.070000	
+    0.370000	0.070000	
+    0.600000	0.070000	
+    0.835000	0.070000	
+    0.140000	0.150000	
+    0.370000	0.150000	
+    0.600000	0.150000	
+    0.835000	0.150000	
+    0.140000	0.230000	
+    0.370000	0.230000	
+    0.600000	0.230000	
+    0.835000	0.230000	
+    0.100000	0.700000	
+    0.300000	0.700000	
+    0.500000	0.700000	
+    0.700000	0.700000	
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

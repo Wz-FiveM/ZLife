@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="css/app.css" type="text/css" />
+</head>
+
+<body>
+
+    <div id="status_list"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="scripts/app.js"></script>
+</body>
+
+<head>
+    <title>mumble-voip</title>
+
+    <style>
+        .info-container {
+            position: absolute;
+            bottom: 0%;
+            right: 0%;
+            text-align: right;
+            padding: 5px;
+            font-family: sans-serif;
+            font-weight: bold;
+            color: rgb(1, 176, 240);
+            font-size: 0.5vw;
+            text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        }
+        
+        .talking {
+            color: rgba(244, 196, 65, 255);
+        }
+        
+        .watermark {
+            position: fixed;
+            top: 0%;
+            right: 0%;
+            text-align: right;
+            opacity: 0.4;
+            z-index: 99;
+            color: rgb(184, 185, 185);
+            font-family: Arial;
+            font-weight: normal;
+            font-size: 0.5vw;
+            opacity: 0.8;
+        }
+    </style>
+    <!-- <script type="text/javascript">
+			window.addEventListener("message", function(event) {
+				var item = event.data;
+
+				if (item.sound && item.volume) {
+					let snd = document.getElementById(item.sound);
+					snd.load();
+					snd.volume = item.volume;
+					snd.play();
+				}
+
+				if (item.mode) {					
+					let modeElem = document.getElementById("voip-mode");
+
+					modeElem.innerHTML = item.mode + (item.radioActiveF1 || item.radioActiveF2 ? " on radio" : "");
+
+					if (item.talking != null) {
+						if (item.talking) {
+							modeElem.className = "talking"
+						} else {
+							modeElem.className = ""
+						}
+					}					
+				}
+
+				if (item.radioF1 != null) {
+					let radioElem = document.getElementById("voip-radio-f1");
+
+					if (item.radioF1 > 0 || isNaN(item.radioF1)) {
+						radioElem.innerHTML = "[Radio F1] " + item.radioF1 + (!isNaN(item.radioF1) ? " MHz" : "");					
+					} else {
+						radioElem.innerHTML = "";
+					}
+				}
+
+				if (item.radioF2 != null) {
+					let radioElem = document.getElementById("voip-radio-f2");
+
+					if (item.radioF2 > 0 || isNaN(item.radioF2)) {
+						radioElem.innerHTML = "[Radio F2] " + item.radioF2 + (!isNaN(item.radioF2) ? " MHz" : "");					
+					} else {
+						radioElem.innerHTML = "";
+					}
+				}
+
+				if (item.call != null) {
+					let callElem = document.getElementById("voip-call");
+					
+					if (item.call > 0) {
+						callElem.innerHTML = "[Call] [" + (item.speaker ? "🔊" : "🔈") + "] " + item.call;					
+					} else {
+						callElem.innerHTML = "";
+					}
+				}
+			});
+		</script> -->
+</head>
+
+<body>
+    <audio id="audio_on" src="mic_click_on.ogg"></audio>
+    <audio id="audio_off" src="mic_click_off.ogg"></audio>
+
+    <div class="info-container">
+        <!-- <div>[Mumble] <span id="voip-mode"></span></div> -->
+        <div id="voip-radio-f1"></div>
+        <div id="voip-radio-f2"></div>
+        <div id="voip-call"></div>
+    </div>
+</body>
+
+</html>

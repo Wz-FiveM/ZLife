@@ -1,0 +1,391 @@
+{
+    "reseau": "LifeInvader",
+    "warningMessageCount": 25000,
+    "themeColor": "#303f9f",
+    "themeColorTitle": "#0000",
+    "colors": [
+        "#EF5350",
+        "#EC407A",
+        "#AB47BC",
+        "#7E57C2",
+        "#5C6BC0",
+        "#42A5F5",
+        "#29B6F6",
+        "#26C6DA",
+        "#26A69A",
+        "#66BB6A",
+        "#9CCC65",
+        "#D4E157",
+        "#FFCA28",
+        "#FFA726",
+        "#FF7043",
+        "#8D6E63",
+        "#78909C"
+    ],
+
+
+    "useFormatNumberFrance": true,
+
+    "useWebRTCVocal": false,
+    "RTCConfig": {
+        "iceServers": [{
+            "urls": ["turn:barrax.needrp.net"],
+            "username": "gcphone",
+            "credential": "gcphone"
+        }]
+    },
+
+    "//": "REQUIRE https://github.com/citizenfx/screenshot-basic or set false",
+    "enableTakePhoto": false,
+    "fileUploadService_Url": "http://fivem.launchwares.com/upload.php",
+    "fileUploadService_Field": "files[]",
+
+    "background": {
+        "IphoneX": "001.png",
+        "iFruit": "002.png",
+        "Isomorphic": "003.png",
+        "Game Over": "004.png",
+        "Neon & Hack": "005.png",
+
+        "Paysage": "006.png",
+        "Univers": "007.jpg",
+        "Pont Dragon Ball": "008.jpg",
+        "Rick & Morty": "009.jpg",
+        "Cité": "010.jpg",
+        "Custom URL": "URL"
+    },
+    "background_default": {
+        "label": "Paysage",
+        "value": "006.png"
+    },
+
+
+    "coque": {
+        "IPhone 5s": "iphone5s.png",
+        "Iphone X": "iphonex.png"
+    },
+
+    "sonido": {
+        "Astronomia": "ring.ogg",
+        "Safaera": "safaera.ogg",
+        "Bella Ciao": "bella_ciao.ogg",
+        "Casa Papel": "casa_papel.ogg",
+        "Iphone 11": "iphone_11.ogg",
+        "Tusa": "tusa.ogg",
+        "XXXTentacion": "xtentacion.ogg"
+    },
+
+    "coque_default": {
+        "label": "IPhone 5s",
+        "value": "iphone5s.png"
+    },
+
+    "sonido_default": {
+        "label": "Casa Papel",
+        "value": "casa_papel.ogg"
+    },
+
+
+    "serviceCall": [{
+            "display": "LSPD",
+            "icon": "/html/static/img/icons_app/police.png",
+            "subMenu": [{
+                "title": "Envoyer un message",
+                "eventName": "esx_addons_gcphone:call",
+                "type": {
+                    "number": "police"
+                }
+            }]
+        },
+        {
+            "display": "Ambulance",
+            "icon": "/html/static/img/icons_app/ambulancier.png",
+            "subMenu": [{
+                "title": "Envoyer un message",
+                "eventName": "esx_addons_gcphone:call",
+                "type": {
+                    "number": "ambulance"
+                }
+            }]
+        },
+        {
+            "display": "Ls Custom's",
+            "icon": "/html/static/img/icons_app/lscustoms.png",
+            "subMenu": [{
+                "title": "Envoyer un message",
+                "eventName": "esx_addons_gcphone:call",
+                "type": {
+                    "number": "lscustoms"
+                }
+            }]
+        },
+        {
+            "display": "Taxi",
+            "icon": "/html/static/img/icons_app/taxi.png",
+            "subMenu": [{
+                "title": "Envoyer un message",
+                "eventName": "esx_addons_gcphone:call",
+                "type": {
+                    "number": "taxi"
+                }
+            }]
+        },
+        {
+            "display": "Concessionnaire",
+            "icon": "/html/static/img/icons_app/cardealer.png",
+            "subMenu": [{
+                "title": "Envoyer un message",
+                "eventName": "esx_addons_gcphone:call",
+                "type": {
+                    "number": "cardealer"
+                }
+            }]
+        },
+        {
+            "display": "LTD",
+            "icon": "/html/static/img/icons_app/ltdls.png",
+            "subMenu": [{
+                "title": "Envoyer un message",
+                "eventName": "esx_addons_gcphone:call",
+                "type": {
+                    "number": "ltds"
+                }
+            }]
+        }
+
+    ],
+
+    "defaultContacts": [],
+
+    "apps": [{
+            "name": "Téléphone",
+            "fr_FR__name": "Téléphone",
+            "en_US__name": "Phone",
+            "icons": "/html/static/img/icons_app/call.png",
+            "routeName": "appels",
+            "inMenuPage": true
+        },
+        {
+            "name": "Contacts",
+            "fr_FR__name": "Contacts",
+            "en_US__name": "Contacts",
+            "icons": "/html/static/img/icons_app/contacts.png",
+            "routeName": "contacts",
+            "inMenuPage": true
+        },
+        {
+            "name": "Messages",
+            "fr_FR__name": "Messages",
+            "en_US__name": "Messages",
+            "icons": "/html/static/img/icons_app/sms.png",
+            "routeName": "messages",
+            "inMenuPage": true,
+            "puceRef": "nbMessagesUnread"
+        },
+        {
+            "name": "Paramètres",
+            "fr_FR__name": "Paramètres",
+            "en_US__name": "System",
+            "icons": "/html/static/img/icons_app/settings.png",
+            "routeName": "parametre",
+            "inHomePage": false
+        },
+        {
+            "name": "Banque",
+            "fr_FR__name": "Banque",
+            "en_US__name": "Wallet",
+            "icons": "/html/static/img/icons_app/bank.png",
+            "routeName": "bankb",
+            "inHomePage": false
+        },
+        {
+            "name": "Caméra",
+            "fr_FR__name": "Caméra",
+            "en_US__name": "Camera",
+            "icons": "/html/static/img/icons_app/photo.png",
+            "routeName": "photo",
+            "inMenuPage": true
+        },
+        {
+            "name": "2048 (Souris)",
+            "fr_FR__name": "2048 (Souris)",
+            "en_US__name": "2048",
+            "icons": "/html/static/img/2048/logo.png",
+            "routeName": "numbers"
+        },
+        {
+            "name": "Tetris (Souris)",
+            "fr_FR__name": "Tetris (Souris)",
+            "en_US__name": "Tetris",
+            "icons": "/html/static/img/2048/logo2.png",
+            "routeName": "tetris"
+        }
+    ],
+    "defaultLanguage": "fr_FR",
+    "language": {
+        "fr_FR": {
+            "NAME": "Français",
+            "APP_APP_FOV": "Retour",
+            "APP_PHONE_ADD": "Enregistrer le contact",
+            "APP_PHONE_CANCEL": "Retour",
+            "PHONE_WARNING_MESSAGE": "esxuration mémoires !",
+            "PHONE_WARNING_MESSAGE_MESS": "messages",
+            "CONFIRM": "Accepter",
+            "CANCEL": "Annuler",
+            "APP_CONFIG_TITLE": "Paramètres",
+            "APP_CONFIG_MY_MUNBER": "Mon numéro",
+            "APP_CONFIG_WALLPAPER": "Fond d'écran",
+            "APP_CONFIG_CASE": "Coque téléhone",
+            "APP_CONFIG_SOUND": "Sonnerie",
+            "APP_CONFIG_ZOOM": "Zoom",
+            "APP_CONFIG_VOLUME": "Volume",
+            "APP_CONFIG_LANGUAGE": "Langue",
+            "APP_CONFIG_MOUSE_SUPPORT": "Controle souris",
+            "APP_CONFIG_RESET": "Formater",
+            "APP_CONFIG_RESET_CONFIRM": "TOUT SUPPRIMER",
+            "APP_PHONE_CALL": "Appeler",
+            "APP_MESSAGE_ERASE_CONVERSATION": "Supprimer le message",
+            "APP_MESSAGE_ERASE_ALL_CONVERSATIONS": "Supprimer tous les messages",
+            "APP_PHONE_CALL_ANONYMOUS": "Appeler en anomyne",
+            "APP_APP_ANNO": "Retour",
+            "APP_PHONE_DELETE": "Effacer",
+            "APP_PHONE_DELETE_ALL": "Effacer TOUT.",
+            "APP_PHONE_TITLE": "Téléphone",
+            "APP_PHONE_MENU_FAVORITES": "Favoris",
+            "APP_PHONE_MENU_RECENTS": "Récents",
+            "APP_PHONE_MENU_CONTACTS": "Contacts",
+            "APP_PHONE_ENTER_NUMBER": "Entrer un numero",
+            "APP_PHONE_NUMBER_HIDDEN": "Munero masqué",
+            "APP_PHONE_NUMBER_UNKNOWN": "Inconnu",
+            "APP_PHONE_CALL_IGNORE": "Ignorée",
+            "APP_BANK_TITLE": "Banque",
+            "APP_BOURSE_TITLE": "Bourse",
+            "APP_CONTACT_TITLE": "Contact",
+            "APP_CONTACT_NEW": "Nouveau Contact",
+            "APP_CONTACT_EDIT": "Modifier le contact",
+            "APP_CONTACT_SAVE": "Enregistrer",
+            "APP_CONTACT_CANCEL": "Annuler",
+            "APP_CONTACT_DELETE": "Supprimer",
+            "APP_CONTACT_LABEL_NAME": "Prénom - Nom",
+            "APP_CONTACT_LABEL_NUMBER": "Numéro",
+            "APP_MESSAGE_TITLE": "Messages",
+            "APP_MESSAGE_NEW_MESSAGE": "Nouveau Message",
+            "APP_MESSAGE_ERASE_CONVEResxION": "Effacer la converesxion",
+            "APP_MESSAGE_ERASE_ALL_CONVEResxIONS": "Effacer toutes les conv.",
+            "APP_MESSAGE_SEND_GPS": "Envoyer Coord GPS",
+            "APP_MESSAGE_SEND_PHOTO": "Envoyer une photo",
+
+            "APP_BANK_TRANSFER": "Transfert",
+            "APP_BANK_YOU": "Transférer votre argent à une autre personne",
+            "APP_BANK_YOUID": "ID du destinataire",
+            "APP_BANK_BALANCE": "Montant à envoyer",
+            "APP_BANK_SUMBIT": "Soumettre",
+            "APP_BANK_TRANSFER_H": "Historique",
+            "APP_BANK_TRANSFER_GPR": "Argent sortant",
+            "APP_BANK_TRANSFER_GLR": "Argent entrant",
+
+            "APP_MESSAGE_SET_GPS": "Position GPS",
+            "APP_MESSAGE_ZOOM_IMG": "Zoom",
+            "APP_MESSAGE_DELETE": "Effacer",
+            "APP_MESSAGE_MESS_NUMBER": "Numero ",
+            "APP_MESSAGE_SAVE_CONTACT": "Enregistrer le contact",
+            "APP_MESSAGE_MESS_SMS": "SMS",
+            "APP_MESSAGE_MESS_CALL": "Appeler",
+            "APP_MESSAGE_MESS_COPY": "Copier",
+            "APP_MESSAGE_CONTACT_TITLE": "Contacts",
+            "APP_MESSAGE_CONTRACT_ENTER_NUMBER": "Enter un numero",
+            "APP_MESSAGE_PLACEHOLDER_ENTER_MESSAGE": "Envoyer un message",
+            "APP_BANK_TITLE_BALANCE": "Solde du compte",
+            "APP_BANK_TITLE_ENTER_MONEY": "Numéro de compte",
+            "APP_BANK_BUTTON_TRANSFER": "Transfert",
+            "APP_BANK_BUTTON_CANCEL": "Annuler",
+
+            "TIMEAGO": ["à l'instant", ["il y a %s seconde", "il y a %s secondes"],
+                ["il y a %s minute", "il y a %s minutes"],
+                ["il y a %s heure", "il y a %s heures"],
+                ["il y a %s jour", "il y a %s jours"],
+                ["il y a %s semaine", "il y a %s semaines"],
+                ["il y a %s mois", "il y a %s mois"],
+                ["il y a %s an", "il y a %s ans"]
+            ]
+
+        },
+        "en_US": {
+            "NAME": "English",
+            "PHONE_WARNING_MESSAGE": "Reminder",
+            "PHONE_WARNING_MESSAGE_MESS": "Messages",
+            "CONFIRM": "Accept",
+            "CANCEL": "Abort",
+            "APP_CONFIG_TITLE": "Settings",
+            "APP_MESSAGE_SAVE_CONTACT": "Save contact",
+            "APP_CONFIG_MY_MUNBER": "My number",
+            "APP_CONFIG_WALLPAPER": "Wallpaper",
+            "APP_CONFIG_CASE": "Telephone cover",
+            "APP_CONFIG_SOUND": "Ringtone",
+            "APP_CONFIG_ZOOM": "Zoom",
+            "APP_CONFIG_VOLUME": "Volume",
+            "APP_CONFIG_LANGUAGE": "Language",
+            "APP_CONFIG_MOUSE_SUPPORT": "Mouse control",
+            "APP_CONFIG_RESET": "Factory Reset",
+            "APP_CONFIG_RESET_CONFIRM": "DELETE ALL",
+            "APP_PHONE_CALL": "Call",
+            "APP_PHONE_CALL_ANONYMOUS": "Anonymous call",
+            "APP_PHONE_DELETE": "Delete",
+            "APP_PHONE_DELETE_ALL": "Delete all.",
+            "APP_PHONE_CANCEL": "Cancel",
+            "APP_PHONE_ADD": "Save as New Contact",
+            "APP_PHONE_TITLE": "Telephone number",
+            "APP_PHONE_MENU_FAVORITES": "Favourites",
+            "APP_PHONE_MENU_RECENTS": "Newest",
+            "APP_PHONE_MENU_CONTACTS": "Contacts",
+            "APP_PHONE_ENTER_NUMBER": "Enter a number",
+            "APP_PHONE_NUMBER_HIDDEN": "Private Number",
+            "APP_PHONE_NUMBER_UNKNOWN": "Unknown Caller",
+            "APP_BANK_TITLE": "Bank",
+            "APP_BOURSE_TITLE": "Stock Market",
+            "APP_CONTACT_TITLE": "Contact",
+            "APP_CONTACT_NEW": "New Contact",
+            "APP_CONTACT_EDIT": "Edit Contact",
+            "APP_CONTACT_SAVE": "Save Contact",
+            "APP_CONTACT_CANCEL": "Cancel",
+            "APP_CONTACT_DELETE": "Delete",
+            "APP_CONTACT_LABEL_NAME": "Contact Name",
+            "APP_CONTACT_LABEL_NUMBER": "Number",
+            "APP_MESSAGE_TITLE": "Messages",
+            "APP_MESSAGE_NEW_MESSAGE": "New Message",
+            "APP_MESSAGE_ERASE_CONVEResxION": "Delete Call",
+            "APP_MESSAGE_ERASE_ALL_CONVEResxIONS": "Delete All Messages",
+            "APP_MESSAGE_SEND_GPS": "Send GPS Position",
+            "APP_MESSAGE_SET_GPS": "GPS Position",
+            "APP_MESSAGE_ZOOM_IMG": "Zoom In",
+            "APP_MESSAGE_DELETE": "Delete",
+            "APP_MESSAGE_SMS": "Text Message",
+            "APP_MESSAGE_CONTACT_TITLE": "Contacts",
+            "APP_MESSAGE_CONTRACT_ENTER_NUMBER": "Enter a number",
+            "APP_MESSAGE_PLACEHOLDER_ENTER_MESSAGE": "Send Message",
+            "APP_MESSAGE_MESS_SMS": "SMS",
+            "APP_MESSAGE_MESS_CALL": "Call",
+            "APP_MESSAGE_MESS_COPY": "Copy",
+            "APP_MESSAGE_SEND_PHOTO": "Send a photo",
+            "APP_BANK_TRANSFER": "TRANSFER",
+            "APP_BANK_YOU": "Transfer Your Money to Another Person",
+            "APP_BANK_YOUID": "ID of Contact",
+            "APP_BANK_BALANCE": "Enter the amount you want to send",
+            "APP_BANK_SUMBIT": "Sumbit",
+            "APP_APP_FOV": "Return",
+            "APP_APP_ANNO": "Annuler",
+            "APP_CONFIG_RINGTONE": "Ring tone",
+            "APP_BANK_TRANSFER_H": "Transfer History",
+            "APP_BANK_TRANSFER_GPR": "Outgoing Money",
+            "APP_BANK_TRANSFER_GLR": "Incoming Money",
+            "TIMEAGO": ["just now", ["%s second ago", "%s seconds ago"],
+                ["%s minute ago", "%s minutes ago"],
+                ["%s hour ago", "%s hours ago"],
+                ["%s day ago", "%s days ago"],
+                ["%s week ago", "%s weeks ago"],
+                ["%s month ago", "%s months ago"],
+                ["%s year ago", "%s years ago"]
+            ]
+        }
+    }
+}

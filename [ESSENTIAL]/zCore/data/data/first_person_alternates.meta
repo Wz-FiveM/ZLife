@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FirstPersonAlternateData>
+    <alternates>
+<!-- Female -->
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_004_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_005_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_006_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_008_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_009_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_010_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_011_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_012_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_014_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_017_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_vinewood/jbib_019_u</assetName>
+            <alternate value="1" />
+        </Item>
+<!-- Male -->
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_006_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_007_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_008_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_010_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_011_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_012_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_013_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_014_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_016_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_vinewood/jbib_019_u</assetName>
+            <alternate value="1" />
+        </Item>
+    </alternates>
+</FirstPersonAlternateData>

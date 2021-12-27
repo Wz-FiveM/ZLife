@@ -1,0 +1,275 @@
+-- Weaopnsdqsd={}
+-- local B6zKxKq={
+--     {spawnPos={x = 722.122, y = -824.9652, z = 24.688,a=357.16},deliveryPos=vector3(690.12, -722.64, 25.56)},
+--     {spawnPos={x=2355.2,  y = 3161.44,  z = 48.12,a=109.45},deliveryPos=vector3(2386.44, 3293.36, 47.56)},
+-- }
+
+-- local O35H={"csb_mweather","s_m_y_blackops_01","s_m_y_ammucity_01"}
+-- local DVs5jfJ9={"mule","speedo","youga3","boxville3"}
+-- local vmml={}
+-- local mHWea = {}
+-- local M79J
+-- local v9F=0;
+-- local ihNbg=1;
+-- local JhgOy;
+
+-- local function Mj56()
+--     for Rr,scRP0 in pairs(O35H)do 
+--         RequestAndWaitModel(scRP0)
+--     end;
+--     v9F=CreateGroup()
+-- end
+
+-- local function jHtu2(AI0R2TQ6)
+--     for yA,XmVolesU in pairs(O35H)do 
+--         SetModelAsNoLongerNeeded(XmVolesU)
+--     end
+--     for eZ0l3ch,W_63_9 in pairs(DVs5jfJ9)do 
+--         SetModelAsNoLongerNeeded(W_63_9)
+--     end
+--     if not AI0R2TQ6 then 
+--         for h9dyA_4T,oh in pairs(vmml)do 
+--             DeleteEntity(oh)
+--         end
+--         DeleteEntity(M79J)
+--     else
+--         for DZXGTh,Su9Koz in pairs(vmml)do 
+--             SetEntityAsNoLongerNeeded(Su9Koz)
+--         end;
+--         SetEntityAsNoLongerNeeded(M79J)
+--     end;
+--     RemoveGroup(v9F)
+--     if JhgOy then 
+--         RemoveBlip(JhgOy)
+--         JhgOy=nil 
+--     end
+--     vmml={}M79J=nil;v9F=nil 
+-- end
+
+-- local function pA9m(NbVh)
+--     local KwQCkS_1 = B6zKxKq[NbVh]
+--     local ptZa=DVs5jfJ9[math.random(1,#DVs5jfJ9)]
+--     local PEqLqw = KwQCkS_1.spawnPos;
+--     RequestAndWaitModel(ptZa)
+--     local iOgf=CreateVehicle(ptZa,PEqLqw.x, PEqLqw.y, PEqLqw.z, PEqLqw.a,true,true)
+--     SetEntityInvincible(iOgf,true)
+--     SetVehicleOnGroundProperly(iOgf,5.0)
+--     SetEntityAsMissionEntity(iOgf,true,true)
+--     SetVehicleIsConsideredByPlayer(iOgf,false)
+--     SetVehicleStrong(iOgf,true)
+--     SetVehicleExplodesOnHighExplosionDamage(iOgf,false)
+--     SetVehicleCanBreak(iOgf,true)
+--     SetVehicleTyresCanBurst(iOgf,false)
+--     JhgOy=AddBlipForEntity(iOgf)
+--     SetBlipSprite(JhgOy,532)
+--     SetBlipColour(JhgOy,47)
+--     SetBlipScale(JhgOy,0.5)
+--     SetBlipAsShortRange(JhgOy,true)
+--     M79J=iOgf
+--     for iXxD6s=1,ihNbg do
+--     local oiY=CreatePedInsideVehicle(iOgf,4,O35H[iXxD6s],iXxD6s-2,true,true)
+--     SetEntityInvincible(oiY,true)
+--     SetBlockingOfNonTemporaryEvents(oiY,true)
+--     TaskSetBlockingOfNonTemporaryEvents(oiY,true)
+--     SetPedRandomComponentVariation(oiY,true)
+--     SetPedRandomProps(oiY)
+--     SetDriverAbility(oiY,0.5)
+--     SetPedConfigFlag(oiY,116,true)
+--     SetPedConfigFlag(oiY,118,true)
+--     vmml[#vmml+1]=oiY
+--         if v9F ~=0 then 
+--             if iXxD6s==1 then 
+--                 SetPedAsGroupLeader(oiY,v9F)
+--             else
+--                 SetPedAsGroupMember(oiY,v9F)
+--                 GiveWeaponToPed(oiY,GetHashKey("WEAPON_ASSAULTRIFLE"),10,false,1)
+--             end 
+--         end 
+--     end 
+-- end
+
+-- local function SpLd(HLXS0Q_)
+--     Mj56()
+--     Wait(2500)
+--     pA9m(HLXS0Q_)
+--     local Kw=vmml[1]
+--     local nvaIsNv7 = B6zKxKq[HLXS0Q_]
+--     local vDnoL55 = nvaIsNv7.deliveryPos
+--     TaskVehicleDriveToCoordLongrange(Kw,M79J,vDnoL55,12.0,1076369579,8.0)
+--     while GetScriptTaskStatus(Kw,0x21d33957)~=7 do 
+--         Wait(1000)
+--     end;
+--     if GetDistanceBetweenCoords(vDnoL55,GetEntityCoords(M79J))>16 then 
+--         jHtu2(true)
+--         return 
+--     end
+--     TaskLeaveVehicle(Kw,M79J,0)
+--     for FT=2,ihNbg do 
+--         TaskLeaveVehicle(vmml[FT],M79J,1)
+--     end;
+--     local xlAK=GetEntityModel(M79J)
+--     local zr1y,Hs=GetModelDimensions(xlAK)local jk=-vec3(zr1y.x+Hs.x,Hs.y,0.0)
+--     local qzSFyIO=GetOffsetFromEntityInWorldCoords(M79J,jk)
+--     for YVLXQw=2,ihNbg do
+--         TaskWanderInArea(vmml[YVLXQw],qzSFyIO,8.0,1.0,15.0)
+--         GiveWeaponToPed(vmml[YVLXQw],GetHashKey("WEAPON_ASSAULTRIFLE"),10,false,1)
+--     end
+--     TaskGoToCoordAnyMeans(Kw,qzSFyIO,1.0,0,0)
+--     Wait(0)
+--     while GetScriptTaskStatus(Kw,0x93399e79)~=7 do 
+--         Wait(1000)
+--     end;
+--     if GetDistanceBetweenCoords(qzSFyIO,GetEntityCoords(Kw))>8 then 
+--         jHtu2(true)
+--         return 
+--     end
+--     TaskTurnPedToFaceEntity(Kw,M79J,-1)
+--     SetVehicleDoorOpen(M79J,2,0,0)
+--     SetVehicleDoorOpen(M79J,3,0,0)Wait(2000)
+--     local Z65="missbigscore2aig_7@driver"
+--     RequestAndWaitDict(Z65)
+--     for bJfct=1,HLXS0Q_ do
+--         TaskPlayAnim(Kw,Z65,"carry_from_van",8.0,-4.0,2000,1,0,0,0,0)
+--         Wait(2000)
+--     end
+
+--     TriggerServerEvent('esx:createPickupCoords', 'item_standard', mHWea.hash, mHWea.count, mHWea.name, mHWea.props, qzSFyIO-GetEntityForwardVector(M79J)*2)
+
+--     RemoveAnimDict(Z65)
+--     for QxhJ=1,ihNbg do
+--         TaskWanderInArea(vmml[QxhJ],qzSFyIO,8.0,1.0,15.0)
+--     end;
+--     SetVehicleDoorShut(M79J,3)
+--     SetVehicleDoorShut(M79J,2)
+--     Wait(1000*30)
+--     for Dzg,_4O in pairs(vmml)do 
+--         TaskEnterVehicle(_4O,M79J,-1,Dzg-2,2.0,1,0)
+--     end;
+--     local umyCNfj=GetGameTimer()
+--     while GetPedInVehicleSeat(M79J,-1)==0 and GetPedInVehicleSeat(M79J,0)and umyCNfj+6000 >GetGameTimer()do 
+--         Wait(1000)
+--     end
+--     TaskVehicleDriveToCoordLongrange(Kw,M79J,vec3(0.0,0.0,0.0),12.0,1076369579,8.0)
+--     mHWea = {
+--         hash = nil,
+--         name = nil,
+--         count = nil,
+--         price = 0,
+--     }
+--     SetTimeout(1000*20,function()
+--         jHtu2(true)
+--     end)
+-- end;
+    
+-- local mHWeaeap = {
+--     {'weapon_snspistol', 'Pétoire', 6500, "hei_prop_heist_wooden_box"},
+--     {'weapon_pistol', 'Beretta 92', 15000, "hei_prop_heist_wooden_box"},
+--     {'weapon_combatpistol', 'Glock 17', 25000, "hei_prop_heist_wooden_box"},
+--     {'weapon_heavypistol', 'Colt-911', 25000, "hei_prop_heist_wooden_box"},
+--     {'weapon_pistol50', 'Desert Eagle', 30000, "hei_prop_heist_wooden_box"},
+--     {'weapon_machinepistol', 'Tec-9', 40000, "hei_prop_heist_wooden_box"},
+--     {'weapon_minismg', 'Scorpion VZ61', 45000, "hei_prop_heist_wooden_box"},
+--     {'weapon_microsmg', 'UZI', 55000, "hei_prop_heist_wooden_box"},
+--     {'weapon_sawnoffshotgun', 'ST87 Saw', 45000, "prop_box_wood02a_mws"},
+--     {'weapon_pumpshotgun', 'Remingnton', 125000, "prop_box_wood02a_mws"},
+--     {'weapon_assaultshotgun', 'Spas 12', 150000, "prop_box_wood02a_mws"},
+--     {'weapon_heavyshotgun', 'Fusil à pompe lourd', 165000, "prop_box_wood02a_mws"},
+--     {'weapon_compactrifle', 'AK-U', 75000, "prop_box_wood02a_mws"},
+--     {'weapon_assaultrifle', 'AK-47', 170000, "prop_box_wood02a_mws"},
+--     {'weapon_gusenberg', 'Balayeuse gusenberg', 170000, "prop_box_wood02a_mws"},
+--     {'weapon_combatpdw', 'UMP 45', 125000, "prop_box_wood02a_mws"},
+--     {'gadget_parachute', 'Parachute', 2500, "prop_mp_drug_package"},
+--     {'weapon_petrolcan', 'Jerry can', 500, "prop_mp_drug_package"},
+--     {'weapon_molotov', 'Cocktail molotov', 2500, "prop_mp_drug_package"},
+--     {'gpbl', 'Kevlar ultra léger', 2500, "prop_cardbordbox_05a"},
+--     {'gpbm', 'Kevlar léger', 5000, "prop_cardbordbox_05a"},
+--     {'gpbml', 'Kevlar lourd', 7500, "prop_cardbordbox_05a"},
+--     {'gpblo', 'Kevlar ultra lourd', 10000, "prop_cardbordbox_05a"},
+-- }
+-- local tempno
+-- local function dx()
+--     local C={}
+--     for fLI2zRe,_Fr2YU in pairs(mHWeaeap)do 
+--         C[#C+1]={name=_Fr2YU[2],price = _Fr2YU[3], hash = _Fr2YU[1], props = _Fr2YU[4],slidemax = 5}
+--     end;
+--     return C 
+-- end
+
+-- local function OnSelected(Xfn, U,Ebsw, UlikV, JtAjijkG)
+--     local s=Ebsw.name:lower()
+-- 	local MenuSelect = U.currentMenu
+--     local m = MenuSelect
+--     local YAtG_LV3 = ""
+--     if m =="magasin"then 
+--         local o5sms=GetClockHours()
+--         if o5sms<21 and o5sms>6 then
+--             ShowAboveRadarMessage("~r~Vous ne pouvez pas faire une livraison de jour.")
+--             return 
+--         end
+--         local JQi1jg,wVzn=GetPlayerPed(-1)
+-- 		for zC,pfZ3SPy_ in pairs(B6zKxKq)do
+--             if GetDistanceBetweenCoords(pfZ3SPy_.deliveryPos,GetEntityCoords(JQi1jg))<32 then 
+--                 wVzn=zC;
+--                 break 
+--             end 
+--         end;
+--         if not wVzn then
+--             ShowAboveRadarMessage("~r~Vous devez faire votre commande sur un point de livraison.")
+--             return 
+--         end
+--         local XPoQB = Ebsw.slidenum - 1
+--         mHWea = {
+--             hash = Ebsw.hash,
+--             name = Ebsw.name,
+--             count = XPoQB,
+--             price = Ebsw.price*XPoQB,
+--             wVz = wVzn,
+--             props = Ebsw.props,
+--         }
+
+--         if mHWea.count ~= 0 then
+--             YAtG_LV3 = YAtG_LV3 .. "\n~w~" .. mHWea.name .. " ~b~x" .. mHWea.count .. "~w~"
+--             if tempno then
+--                 RemoveNotification(tempno)
+--             end
+--             tempno = ShowAboveRadarMessage("~b~Votre commande:" .. YAtG_LV3 .. "\n~w~Prix: ~g~" .. mHWea.price .."$")
+--             Xfn:OpenMenu("validation")
+--         end
+--     elseif m == "validation" then 
+--         if mHWea.hash ~= nil and mHWea.count ~= 0 then 
+--             TriggerServerEvent("clp:removemoney", mHWea.price)
+
+--             SpLd(mHWea.wVz)
+--             Xfn:CloseMenu()
+--         end 
+-- 	end 
+-- end
+-- local mcYOH8={
+--     Base={ Title="Vente d'armes"},
+--     Data={currentMenu="magasin"},
+--     Events={onSelected=OnSelected},
+--     Menu={
+--         ["validation"]={
+--             b={
+--                 {name="Valider votre commande", ask=">", askX=true}
+--             }
+--         },
+--         ["magasin"]={
+--             b=dx
+--         },
+--     }
+-- }
+
+-- RegisterCommand("livraisonarmes",function()
+--     local JQi1jg,wVzn=GetPlayerPed(-1)
+--     for zC,pfZ3SPy_ in pairs(B6zKxKq)do
+--         if GetDistanceBetweenCoords(pfZ3SPy_.deliveryPos,GetEntityCoords(JQi1jg))<32 then 
+--             wVzn=zC;
+--             break 
+--         end 
+--     end;
+--     if not wVzn then
+--         return 
+--     end
+--     CreateMenu(mcYOH8)
+-- end)

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<Item>
+	    <id value="92611"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_TOP</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_top_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92610"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92613"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_MC</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_mc_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92612"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_BOTTOM</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_bottom_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92614"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_FRONT</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_front_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92615"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_FRONT</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_1pourcent_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92616"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_SAMOURAI_FRONT</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_samourai_devise_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92617"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_LESVIKINGS_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_lesvikings_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92618"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_LOSTIGRES_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_lostigres_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92619"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_BLOODDIAMOND_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_blooddiamond_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92620"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_ANIMALBROTHERHOOD_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_animalbrotherhood_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92621"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_AKATSUKI_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_akatsuki_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92622"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_VAYNAH_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_vaynah_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92623"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_LOSTHUSSARDS_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_losthussards_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92624"/>
+	    <cost value="50"/>
+	    <textLabel>BADGE_LOSHERMANOS_CENTER</textLabel>
+	    <collection>new_overlays</collection>
+	    <preset>badge_loshermanos_center_M</preset>
+	    <zone>PDZ_TORSO</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+  <Item>
+    <id value="92625"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_2PAC</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_2pac_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92626"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_50NIGGAZ</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_50niggaz_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92627"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_NEFERETITI</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_neferetiti_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92628"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_THUGLIFE</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_thuglife_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92629"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_BALLIN</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_ballin_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92630"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_EXODUS</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_exodus_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92631"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_FUCKTHEWORLD</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_fucktheworld_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92632"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_BLACKPANTHER</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_blackpanther_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92633"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_CRYLATER</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_crylater_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92634"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_HEARTLESS</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_heartless_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  <Item>
+    <id value="92635"/>
+    <cost value="50"/>
+    <textLabel>TATTOO_SMILENOW</textLabel>
+    <collection>new_overlays</collection>
+    <preset>tattoo_smilenow_M</preset>
+    <zone>PDZ_TORSO</zone>
+    <eFacing>TATTOO_RIGHT</eFacing>
+    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+    <eFaction>TATTOO_MP_FM</eFaction>
+    <lockHash>CUSTOM_TATTOOS</lockHash>
+  </Item>
+  </TattooShopItems>
+</TattooShopItemArray>

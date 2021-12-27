@@ -1,0 +1,28 @@
+<sOverlayInfos>
+	<overlayInfos>
+		<Item>
+			<nameId>mpVinewood_interior_additions</nameId>
+			<changeSet>MPVINEWOOD_INTERIOR_ADDITIONS</changeSet>
+			<version value="1"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>	
+		<Item>
+			<nameId>mpVinewood_map_additions</nameId>
+			<changeSet>MPVINEWOOD_MAP_UPDATE</changeSet>
+			<version value="1"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>	
+		<Item>
+			<nameId>mpHeist_gta5_lodlights</nameId>
+			<changeSet>MPVINEWOOD_GTA5_LODLIGHTS</changeSet>
+			<version value="5"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>
+		<Item>
+			<nameId>navmeshOverlays</nameId>
+			<changeSet>MPVINEWOOD_MAP_UPDATE_NAVMESH_ONLY</changeSet>
+			<version value="4"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>			
+	</overlayInfos>
+</sOverlayInfos>
