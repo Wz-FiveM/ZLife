@@ -1,2 +1,2 @@
-# ZLife By Wz
+# ZLife 
 # EZ LES RESELLERS
